@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -pthread -g   CMakeFiles/IPV6ServerClient.dir/main.cpp.o CMakeFiles/IPV6ServerClient.dir/Server.cpp.o CMakeFiles/IPV6ServerClient.dir/Client.cpp.o  -o IPV6ServerClient 

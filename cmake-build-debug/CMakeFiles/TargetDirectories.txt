@@ -1,0 +1,3 @@
+/home/pogotsky/Work/C++Projects/IPV6ServerClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pogotsky/Work/C++Projects/IPV6ServerClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pogotsky/Work/C++Projects/IPV6ServerClient/cmake-build-debug/CMakeFiles/IPV6ServerClient.dir

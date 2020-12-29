@@ -1,0 +1,4 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pogotsky/Work/C++Projects/IPV6ServerClient
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pogotsky/Work/C++Projects/IPV6ServerClient/cmake-build-debug
