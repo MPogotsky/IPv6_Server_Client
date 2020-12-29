@@ -1,8 +1,8 @@
 #include <iostream>
 #include <thread>
 
-#include "Server.h"
-#include "Client.h"
+#include "Server/Server.h"
+#include "Client/Client.h"
 
 void startServer() {
     Server server;
