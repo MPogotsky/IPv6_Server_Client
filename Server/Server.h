@@ -12,7 +12,6 @@
 class Server {
     int serverFd, newClient;
     int port;
-    const char *ipAddress;
     struct sockaddr_in6 addr;
     char buffer[1024];
 
