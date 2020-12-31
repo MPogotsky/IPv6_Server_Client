@@ -1,7 +1,7 @@
 #include "Server.h"
 
 Server::Server()
-        : port(8881), ipAddress("::1") {
+        : port(8881) {
     bindSocket();
     listenAndAccept();
 }
